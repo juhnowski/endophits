@@ -1,4 +1,7 @@
 package model.endophytes;
 
-public class Endophyte {
+import model.symbiosis.Container;
+
+public class Endophyte extends Container {
+
 }
