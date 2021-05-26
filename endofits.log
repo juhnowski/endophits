@@ -1,0 +1,2373 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.25)  26 MAY 2021 04:27
+entering extended mode
+**./endofits.tex
+(endofits.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count187
+\uc@combtoks=\toks15
+\uc@combtoksb=\toks16
+\uc@temptokena=\toks17
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 78.
+
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/t2\mathtext.sty
+Package: mathtext 2018/04/13 v1.1 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 119.
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen140
+))
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+\symOMLletters=\mathgroup5
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\symOMSletters=\mathgroup6
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks21
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks22
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count268
+\lst@gtempboxa=\box49
+\lst@token=\toks26
+\lst@length=\count269
+\lst@currlwidth=\dimen151
+\lst@column=\count270
+\lst@pos=\count271
+\lst@lostspace=\dimen152
+\lst@width=\dimen153
+\lst@newlines=\count272
+\lst@lineno=\count273
+\lst@maxwidth=\dimen154
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count274
+\lst@skipnumbers=\count275
+\lst@framebox=\box50
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys
+.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen155
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+\symPD1letters=\mathgroup9
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langpatch
+es.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count278
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+\symPUletters=\mathgroup10
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3167.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count279
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen156
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count280
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfileche
+ck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecount
+er.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/revtex4\revsymb.sty
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \frak on input line 94.
+LaTeX Info: Redefining \Bbb on input line 110.
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count286
+\LTcapwidth=\dimen159
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@cols=\count287
+\LT@rows=\count288
+\c@LT@tables=\count289
+\c@LT@chunks=\count290
+\LT@p@ftn=\toks27
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.
+def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
+\l__pdf_internal_box=\box55
+) (endofits.aux
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
+2.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Warning: Label `09593330.2017.1337232' multiply defined.
+
+
+LaTeX Warning: Label `Acinetobacter_14' multiply defined.
+
+
+LaTeX Warning: Label `Acinetobacter_1' multiply defined.
+
+
+LaTeX Warning: Label `Acinetobacter_7' multiply defined.
+
+)
+\openout1 = `endofits.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+ (C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+LaTeX Info: Redefining \th on input line 35.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count292
+\scratchdimen=\dimen160
+\scratchbox=\box56
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen161
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks29
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.
+sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@lstlisting=\count298
+ (C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 35.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlest
+ring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count299
+)
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
+ (endofits.out) (endofits.out)
+\@outlinefile=\write3
+\openout3 = `endofits.out'.
+
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 38
+.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
+8.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
+(Font)              using `OML/cmr/m/it' instead on input line 38.
+
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 38.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+8.
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
+(Font)              using `OMS/cmr/m/n' instead on input line 38.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 3
+8.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 38.
+
+
+LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 38.
+
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 38
+.
+LaTeX Font Info:    No file PUcmr.fd. on input line 38.
+
+LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 38.
+
+(endofits.toc
+LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+ [1
+
+{C:/Users/1/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+[2])
+\tf@toc=\write4
+\openout4 = `endofits.toc'.
+
+ [3]
+Overfull \hbox (22.59433pt too wide) in paragraph at lines 54--55
+[]\T2A/cmr/m/n/10.95 эндофитные - спо-соб-ны всту-пать с хо-з€-и-ном в растител
+ьно-эндофитный
+ []
+
+
+Overfull \hbox (92.68594pt too wide) in alignment at lines 61--102
+ [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 102
+ []
+
+
+Overfull \hbox (92.68594pt too wide) in alignment at lines 102--130
+ [] [] [] 
+ []
+
+[4]
+Overfull \hbox (92.68594pt too wide) in alignment at lines 130--148
+ [] [] [] 
+ []
+
+[5]
+Overfull \hbox (2.92622pt too wide) in paragraph at lines 153--154
+\T2A/cmr/m/n/10.95 опре-де-лен-ный фер-мент (1-аминоциклопропан-1-карбоксилат-д
+еаминаза),
+ []
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+
+LaTeX Warning: Citation `MPMI-7-0440 ' on page 6 undefined on input line 161.
+
+[6]
+Overfull \hbox (1.92783pt too wide) in paragraph at lines 163--164
+[]\T2A/cmr/m/n/10.95 »звестны эн-до-фи-ты, про-из-во-д€-щие им-му-но-де-прес-са
+н-ты, про-ти-во-опу-
+ []
+
+
+Overfull \hbox (3.60324pt too wide) in paragraph at lines 165--166
+[]\T2A/cmr/m/n/10.95 Ёндофиты мо-гут ре-гу-ли-ро-вать ос-мо-ти-че-ское дав-ле-н
+ие, ра-бо-ту устьиц,
+ []
+
+
+Overfull \hbox (8.30081pt too wide) in paragraph at lines 170--171
+[]\T2A/cmr/m/n/10.95 Achromobacter - это род бак-те-рий , вхо-д€-щих в се-мей-с
+тво Alcaligenaceae
+ []
+
+[7]
+Overfull \hbox (2.69644pt too wide) in paragraph at lines 185--186
+[]\T2A/cmr/m/n/10.95 Ёто па-лоч-ки, кок-ко-вые па-лоч-ки или кок-ки раз-ме-ром 
+при-мер-но 0,51,0
+ []
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Overfull \hbox (23.95757pt too wide) in paragraph at lines 193--194
+\T2A/cmr/m/n/10.95 па-лоч-ко-вид-ных , без спо-ро-об-ра-зу-ю-щих бак-те-рий се-
+мей-ства Enterobacteriaceae
+ []
+
+[8]
+
+LaTeX Warning: Citation `Enterobacter_1 - Enterobacter_8' on page 9 undefined o
+n input line 199.
+
+[9]
+
+LaTeX Warning: Citation `Pseudomonas_putiida_6 ' on page 10 undefined on input 
+line 240.
+
+
+LaTeX Warning: Citation `Pseudomonas_putiida_9' on page 10 undefined on input l
+ine 242.
+
+
+LaTeX Warning: Citation `Pseudomonas_putiida_12 ' on page 10 undefined on input
+ line 242.
+
+
+Overfull \hbox (2.85194pt too wide) in paragraph at lines 245--246
+\T2A/cmr/m/n/10.95 Stenotrophomonas €в-л€-ет-с€ ро-дом из гра-мот-ри-ца-тель-ны
+х бак-те-рий ,  [[]]
+ []
+
+
+Overfull \hbox (35.36513pt too wide) in paragraph at lines 245--246
+\T2A/cmr/m/n/10.95 ни€ сте-но-тро-фо-мо-над €в-л€-ют-с€ поч-ва и рас-те-ни€.  [
+[]] ¬и-ды Stenotrophomonas
+ []
+
+[10]
+Overfull \hbox (11.70648pt too wide) in paragraph at lines 247--248
+\T2A/cmr/m/n/10.95 ле-ту-чие ор-га-ни-че-ские со-еди-не-ни€ с про-ти-во-гриб-ко
+-вой ак-тив-но-стью. Ўтам-
+ []
+
+[11]
+Overfull \hbox (1.74574pt too wide) in paragraph at lines 261--262
+\T2A/cmr/m/n/10.95 кор-ней са-хар-ной свек-лы; у них неиз-вест-ный сим-био-ти-ч
+е-ский ста-тус.  [[]] 
+ []
+
+
+Overfull \hbox (4.13527pt too wide) in paragraph at lines 263--264
+[]\T2A/cmr/m/n/10.95 Bradyrhizobium elkanii , Bradyrhizobium diazoefficiens и B
+radyrhizobium
+ []
+
+[12] [13] [14] [15] [16]
+Overfull \hbox (41.08772pt too wide) in paragraph at lines 336--337
+[]\T2A/cmr/m/n/10.95 Serratia ис-поль-зу-ет ме-та-бо-ли-че-ский фер-мент јƒ‘-гл
+юкозопирофосфорилазу
+ []
+
+
+Overfull \hbox (64.7939pt too wide) in paragraph at lines 336--337
+\T2A/cmr/m/n/10.95 с ки-не-ти-че-ски-ми свой-ства-ми, от-лич-ны-ми от тех, что 
+об-на-ру-же-ны у Enterobacteriaceae,
+ []
+
+
+Overfull \hbox (12.31895pt too wide) in paragraph at lines 351--353
+\T2A/cmr/m/n/10.95 Leptothrix - это род гра-мот-ри-ца-тель-ных бак-те-рий клас-
+са Betaproteobacteria
+ []
+
+[17] [18] [19]
+Overfull \hbox (5.79819pt too wide) in paragraph at lines 393--394
+\T2A/cmr/m/n/10.95  лет-ки кок-ко-вид-ные во вре-м€ ста-ци-о-нар-ной фа-зы и не
+пра-виль-ные стерж-
+ []
+
+[20]
+Overfull \hbox (2.78894pt too wide) in paragraph at lines 402--403
+\T2A/cmr/m/n/10.95 sudanensis., а у рас-те-ний мо-гут быть вы-зва-ны S. cavisca
+bies , S. acidiscabies
+ []
+
+[21]
+Overfull \hbox (43.04282pt too wide) in paragraph at lines 419--420
+[]\T2A/cmr/m/n/10.95 Ѕлагодар€ их biodegradative и био-син-те-ти-че-ским воз-мо
+ж-но-сти, sphingomonads
+ []
+
+[22]
+<pictures//Key-pathways-affecting-bystander-signals-Cells-respond-to-direct-rad
+iation-red-cell-by.png, id=1268, 433.62pt x 327.23856pt>
+File: pictures//Key-pathways-affecting-bystander-signals-Cells-respond-to-direc
+t-radiation-red-cell-by.png Graphic file (type png)
+<use pictures//Key-pathways-affecting-bystander-signals-Cells-respond-to-direct
+-radiation-red-cell-by.png>
+Package pdftex.def Info: pictures//Key-pathways-affecting-bystander-signals-Cel
+ls-respond-to-direct-radiation-red-cell-by.png  used on input line 436.
+(pdftex.def)             Requested size: 360.0pt x 271.69281pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 436--437
+[][] 
+ []
+
+[23 <./pictures//Key-pathways-affecting-bystander-signals-Cells-respond-to-dire
+ct-radiation-red-cell-by.png>] [24]
+Overfull \hbox (53.63657pt too wide) in paragraph at lines 476--476
+\T2A/cmr/bx/n/12 че-ских со-еди-не-ний, св€-зан-ных с радиационно-индуцированно
+й
+ []
+
+[25]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 505.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 505.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 505.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 505.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 508.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 508.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 508.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 508.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 511.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 511.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\alpha' on input line 511.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 511.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 514.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 514.
+
+[26]
+<pictures//Direct-DNA-damage-radiation-model-The-schematic-shows-the-standard-m
+odel-of-DNA-damage.png, id=1300, 315.0972pt x 274.626pt>
+File: pictures//Direct-DNA-damage-radiation-model-The-schematic-shows-the-stand
+ard-model-of-DNA-damage.png Graphic file (type png)
+<use pictures//Direct-DNA-damage-radiation-model-The-schematic-shows-the-standa
+rd-model-of-DNA-damage.png>
+Package pdftex.def Info: pictures//Direct-DNA-damage-radiation-model-The-schema
+tic-shows-the-standard-model-of-DNA-damage.png  used on input line 520.
+(pdftex.def)             Requested size: 360.0pt x 313.76411pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 520--521
+[][] 
+ []
+
+[27 <./pictures//Direct-DNA-damage-radiation-model-The-schematic-shows-the-stan
+dard-model-of-DNA-damage.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 548.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\alpha' on input line 548.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 548.
+
+[28]
+Overfull \hbox (8.21571pt too wide) detected at line 598
+[] []
+ []
+
+[29]
+<pictures//uml_classes.png, id=1329, 1070.49937pt x 1014.03844pt>
+File: pictures//uml_classes.png Graphic file (type png)
+<use pictures//uml_classes.png>
+Package pdftex.def Info: pictures//uml_classes.png  used on input line 605.
+(pdftex.def)             Requested size: 360.0pt x 341.00858pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 605--606
+[][] 
+ []
+
+[30 <./pictures//uml_classes.png>]
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+Underfull \hbox (badness 1803) in paragraph at lines 614--615
+[]\T2A/cmr/m/n/10.95 Iqbal A, Arshad M, Hashmi I, et al. Biodegradation of phen
+ol
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 620--621
+[]\T2A/cmr/m/n/10.95 Compant S, Mitter B, Colli-Mull JG, et al. Endophytes of
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 620--621
+\T2A/cmr/m/n/10.95 grapevine flowers, berries, and seeds: identification of cul
+tivable
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 620--621
+\T2A/cmr/m/n/10.95 bacteria, comparison with other plant parts, and visualizati
+on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--621
+\T2A/cmr/m/n/10.95 of niches of colonization. Microb Ecol. 2011;62(1):188-197.
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 624--625
+[]\T2A/cmr/m/n/10.95 Santoyo G, Moreno-Hagelsieb G, Orozco-Mosqueda Mdel C, Gli
+ck
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 624--625
+\T2A/cmr/m/n/10.95 BR. Plant growth-promoting bacterial endophytes. Microbiol R
+es.
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 626--627
+[]\T2A/cmr/m/n/10.95 Strobel GA. Endophytes as sources of bioactive products.
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 626--627
+\T2A/cmr/m/n/10.95 Microbes Infect. 2003;5(6):535-544. https://doi/org/10.1016/
+S1286-
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 632--633
+[]\T2A/cmr/m/n/10.95 Malfanova N, Kamilova F, Validov S, et al. Characterizatio
+n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--633
+\T2A/cmr/m/n/10.95 of Bacillus subtilis HC8, a novel plant-beneficial endophyti
+c
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 632--633
+\T2A/cmr/m/n/10.95 strain from giant hogweed. Microb Biotechnol. 2011;4(4):523-
+532.
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 634--635
+[]\T2A/cmr/m/n/10.95 Mercado-Blanco J, Lugtenberg B. Biotechnological applicati
+ons
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--635
+\T2A/cmr/m/n/10.95 of bacterial endophytes. Curr Biotechnol. 2014;3(1):60-75.
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 636--637
+\T2A/cmr/m/n/10.95 function against plant pathogenic fungi. FEMS Microbiol Ecol
+.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--639
+[]\T2A/cmr/m/n/10.95 Azevedo JL, Maccheroni W, Pereira JO, De Araujo WL.
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 642--643
+[]\T2A/cmr/m/n/10.95 Maksimov IV, Abizgil'dina RR, Pusenkova LI. Plant growth
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 642--643
+\T2A/cmr/m/n/10.95 promoting rhizobacteria as alternative to chemical crop prot
+ectors
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
+[]\T2A/cmr/m/n/10.95 Riley MA, Wertz JE. Bacteriocins: evolution, ecology,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
+\T2A/cmr/m/n/10.95 and application. Annu Rev Microbiol. 2002;56:117-137.
+ []
+
+[32]
+Underfull \hbox (badness 3635) in paragraph at lines 648--649
+[]\T2A/cmr/m/n/10.95 Strobel G, Daisy B, Castillo U, Harper J. Natural products
+
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 648--649
+\T2A/cmr/m/n/10.95 from endophytic microorganisms. J Nat Prod. 2004;67(2):257-2
+68.
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{cite.09593330
+.2017.1337232}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.650 		\bibitem{09593330.2017.1337232}
+                                        Iqbal A, Arshad M, Hashmi I, et al. ...
+
+Underfull \hbox (badness 1248) in paragraph at lines 650--651
+[]\T2A/cmr/m/n/10.95 Iqbal A, Arshad M, Hashmi I, et al. Biodegradation of phen
+ol
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 660--661
+[]\T2A/cmr/m/n/10.95 Oyserman BO, Medema MH, Raaijmakers JM. Road MAPs to
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 660--661
+\T2A/cmr/m/n/10.95 engineer host microbiomes. Curr Opin Microbiol. 2018;43:46-5
+4.
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 662--663
+\T2A/cmr/m/n/10.95 signalling in cancer therapy. Nature reviews. Cancer. 9. 351
+-60.
+ []
+
+[33]
+Underfull \hbox (badness 1325) in paragraph at lines 664--665
+[]\T2A/cmr/m/n/10.95 –адиационный за-хват ней-тро-нов. —пра-воч-ник - ћ., ЁЌ≈–-
+√ќ-
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 666--668
+[]\T2A/cmr/m/n/10.95 ћухин Ёкс-пе-ри-мен-таль-на€ €дер-на€ фи-зи-ка - »з-да-тел
+ь-ство
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
+[]\T2A/cmr/m/n/10.95 Marques JM, da Silva TF, Vollu RE, et al. Bacterial
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 671--672
+\T2A/cmr/m/n/10.95 endophytes of sweet potato tuberous roots affected by the pl
+ant
+ []
+
+
+Underfull \hbox (badness 7925) in paragraph at lines 671--672
+\T2A/cmr/m/n/10.95 genotype and growth stage. Appl Soil Ecol. 2015;96:273-281.
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 673--674
+\T2A/cmr/m/n/10.95 of an endophyte community colonizing rice roots as revealed 
+by
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 675--676
+\T2A/cmr/m/n/10.95 endophytic bacterial community inha biting rice (Oryza sativ
+a)
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 675--676
+\T2A/cmr/m/n/10.95 plants after flooding. FEMS Microbiol Ecol. 2015;91(9): fiv1
+04.
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 677--678
+\T2A/cmr/m/n/10.95 and phyllosphere bacterial communities to elevated CO2 and
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 677--678
+\T2A/cmr/m/n/10.95 soil temperature in a rice paddy. Plant Soil. 2015;392(1-2):
+27-44.
+ []
+
+[34]
+Underfull \hbox (badness 1303) in paragraph at lines 685--686
+[]\T2A/cmr/m/n/10.95 Tariq M, Hameed S, Yasmeen T, Ali A. Non-rhizobial bacteri
+a
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 685--686
+\T2A/cmr/m/n/10.95 for improved nodulation and grain yield of mung bean [Vigna
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
+\T2A/cmr/m/n/10.95 radiata (L.) Wilczek]. Afr J Biotechnol 2012;11:15012-15019.
+
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 687--688
+[]\T2A/cmr/m/n/10.95 Egamberdieva D, Wirth S, Jabborova D, et al. Coor dination
+
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 691--692
+\T2A/cmr/m/n/10.95 Curr Microbiol. 2008;56(2):134-139. https://doi/org/10.1007/
+s00284-
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 695--696
+\T2A/cmr/m/n/10.95 bacteria in pea cultivars under field conditions. Can J Micr
+obiol
+ []
+
+[35]
+Underfull \hbox (badness 6316) in paragraph at lines 707--708
+[]\T2A/cmr/m/n/10.95 Lad, J., Rusin, A., Seymour, C., & Mothersill, C. (2019).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+\T2A/cmr/m/n/10.95 An investigation into neutron-induced bystander effects:
+ []
+
+
+Underfull \hbox (badness 8000) in paragraph at lines 707--708
+\T2A/cmr/m/n/10.95 How low can you go? Environmental Research, 175, 8499.
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 713--714
+\T2A/cmr/m/n/10.95 dots in your cell culture? Identification of Achromobacter a
+s
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 713--714
+\T2A/cmr/m/n/10.95 a novel cell culture contaminant". Biologicals. 38 (2): 273
+277.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
+[]\T2A/cmr/m/n/10.95 Alcaligenes. (n.d.) Miller-Keane Encyclopedia and Dictiona
+ry
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
+\T2A/cmr/m/n/10.95 of Medicine, Nursing, and Allied Health, Seventh Edition.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
+\T2A/cmr/m/n/10.95 (2003). Retrieved May 25 2021 from https://medical-
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 720--721
+[]\T2A/cmr/m/n/10.95 Alcaligenes. (n.d.) Farlex Partner Medical Dictionary.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--721
+\T2A/cmr/m/n/10.95 (2012). Retrieved May 25 2021 from https://medical-
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 726--727
+\T2A/cmr/m/n/10.95 Eugene; DeLong, Edward F.; Lory, Stephen; Stackebrandt, Erko
+;
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 730--731
+\T2A/cmr/m/n/10.95 of the 'Enterobacteriales': proposal for Enterobacterales or
+d. nov.
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 734--735
+\T2A/cmr/m/n/10.95 Water". Int. J. Environ. Res. Public Health. 7 (10): 365737
+03.
+ []
+
+[37]
+Underfull \hbox (badness 1867) in paragraph at lines 736--737
+[]\T2A/cmr/m/n/10.95 BioMed Central (22 November 2018). "ISS microbes should be
+
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 740--741
+[]\T2A/cmr/m/n/10.95 Russo Thomas A, Johnson James R, "Chapter 143. Diseases
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 740--741
+\T2A/cmr/m/n/10.95 Caused by Gram-Negative Enteric Bacilli"(Chapter). Fauci AS,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+\T2A/cmr/m/n/10.95 Braunwald E, Kasper DL, Hauser SL, Longo DL, Jameson
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 740--741
+\T2A/cmr/m/n/10.95 JL, Loscalzo J: Harrison's Principles of Internal Medicine, 
+17e:
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 748--749
+[]\T2A/cmr/m/n/10.95 Info - Acinetobacter oryzae ANC 4261". Joint Genome Instit
+ute
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 753--754
+\T2A/cmr/m/n/10.95 of three BLUF-domain-containing proteins". Microbiology. 159
+ (Pt
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 753--754
+\T2A/cmr/m/n/10.95 9): 18281841. doi:10.1099/mic.0.069153-0. ISSN 1465-2080. P
+MID
+ []
+
+[38]
+Underfull \hbox (badness 5077) in paragraph at lines 757--759
+\T2A/cmr/m/n/10.95 A.; Zinjarde, S.S.; Dhakephalkar, P.K.; Chopade, B.A. (2012)
+.
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 760--762
+\T2A/cmr/m/n/10.95 of Acinetobacter baumannii. Infect Control Hosp Epidemiol 20
+01;
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 760--762
+\T2A/cmr/m/n/10.95 22:284288. Doughari HJ; Ndakidemi PA; Human IS; Benade S
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 760--762
+\T2A/cmr/m/n/10.95 (2011). "The ecology, biology and pathogenesis of Acinetobac
+ter
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 760--762
+\T2A/cmr/m/n/10.95 spp.:an overview". Microbes and Environments. 26 (2): 10111
+2.
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 763--764
+[]\T2A/cmr/m/n/10.95 Dent Lemuel, L; Marshall, DR; Pratap, S; Hulette, RB (2010
+).
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 765--766
+[]\T2A/cmr/m/n/10.95 Siegman-Igra, Y; Bar-Yosef, S; Gorea, A; Avram, J (1993).
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 769--770
+\T2A/cmr/m/n/10.95 of OXA-type carbapenemases and integrons among carbapenem-
+ []
+
+[39]
+Underfull \hbox (badness 2302) in paragraph at lines 773--774
+[]\T2A/cmr/m/n/10.95 Peleg AY; Seifert H; Paterson DL (July 2008). "Acinetobact
+er
+ []
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 775--776
+\T2A/cmr/m/n/10.95 M. J.; Vartiainen, E.; Kosunen, T. U.; Alenius, H.; Haahtela
+,
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 775--776
+\T2A/cmr/m/n/10.95 T. (2012). "Environmental biodiversity, human microbiota, an
+d
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 775--776
+\T2A/cmr/m/n/10.95 allergy are interrelated". Proceedings of the National Acade
+my
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 775--776
+\T2A/cmr/m/n/10.95 of Sciences. 109 (21): 83348339. Bibcode:2012PNAS..109.8334
+H.
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 777--778
+[]\T2A/cmr/m/n/10.95 Debarry, J.; Hanuszkiewicz, A.; Stein, K.; Holst, O.; Hein
+e, H.
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 777--778
+\T2A/cmr/m/n/10.95 are imparted by its lipopolysaccharide". Allergy. 65 (6): 69
+0697.
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 786--787
+[]\T2A/cmr/m/n/10.95 Keen, E; Bliskovsky, V; Adhya, S; Dantas, G (2017). "Draft
+
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 786--787
+\T2A/cmr/m/n/10.95 genome sequence of the naturally competent Bacillus simplex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--787
+\T2A/cmr/m/n/10.95 strain WY10". Genome Announcements. 5 (46): e0129517.
+ []
+
+[40pdfTeX warning (ext4): destination with the same identifier (name{cite.Acine
+tobacter_14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.790 	\bibitem{Rahnella_aquatilis_1}
+                                      Asselin JE, Eikemo H, Perminow J, Nord...
+]
+Underfull \hbox (badness 2035) in paragraph at lines 795--796
+[]\T2A/cmr/m/n/10.95 Anzai; Kim, H; Park, JY; Wakabayashi, H; Oyaizu, H; et al.
+
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 799--800
+\T2A/cmr/m/n/10.95 Microbiology. 9 (5): 9239. doi:10.1111/j.1365-2958.1993.tb0
+1222.x.
+ []
+
+[41]
+Underfull \hbox (badness 2020) in paragraph at lines 809--810
+\T2A/cmr/m/n/10.95 N; Lugtenberg, B (2007). "Selection of bacteria able to cont
+rol
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--814
+[] [][]$\T2A/cmr/m/n/10.95 https : / / www . researchgate . net / publication /
+ 221847539 _ Industrial _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--816
+[] [][]$\T2A/cmr/m/n/10.95 http : / / blogs . scienticamerican . com / observa
+tions / 2011 / 05 / 24 /
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 817--818
+[]\T2A/cmr/m/n/10.95 Summers, RM; Louie, TM; Yu, CL; Subramanian, M (2011).
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 823--824
+[]\T2A/cmr/m/n/10.95 Ryan, Robert P.; Monchy, Sebastien; Cardinale, Massimilian
+o;
+ []
+
+[42]
+Underfull \hbox (badness 6978) in paragraph at lines 831--832
+\T2A/cmr/m/n/10.95 R.B. (2012). "Stenotrophomonas interspecies differentiation 
+and
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 838--839
+[]\T2A/cmr/m/n/10.95 Uchino Y, Hirata A, Yokota A, Sugiyama J (June 1998).
+ []
+
+[43]
+Underfull \hbox (badness 7649) in paragraph at lines 842--843
+[]\T2A/cmr/m/n/10.95 Farrand SK, van Berkum PB, Oger P (September 2003).
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 842--843
+\T2A/cmr/m/n/10.95 "Agrobacterium is a definable genus of the family Rhizobiace
+ae".
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 846--847
+\T2A/cmr/m/n/10.95 for the genus Agrobacterium and for Agrobacterium radiobacte
+r
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 850--851
+[]\T2A/cmr/m/n/10.95 Pitzschke A, Hirt H (March 2010). "New insights into an
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 850--851
+\T2A/cmr/m/n/10.95 old story: Agrobacterium-induced tumour formation in plants 
+by
+ []
+
+
+Underfull \hbox (badness 7667) in paragraph at lines 850--851
+\T2A/cmr/m/n/10.95 plant transformation". The EMBO Journal. 29 (6): 102132.
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 854--855
+\T2A/cmr/m/n/10.95 Microbiology. 31 (9): 25413. doi:10.1128/JCM.31.9.2541-2543
+.1993.
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 856--857
+[]\T2A/cmr/m/n/10.95 Cain JR (March 1988). "A case of septicaemia caused by
+ []
+
+[44]
+Underfull \hbox (badness 4569) in paragraph at lines 858--859
+\T2A/cmr/m/n/10.95 V (February 2001). "Genetic transformation of HeLa cells by
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 858--859
+\T2A/cmr/m/n/10.95 doi:10.1073/pnas.041327598. JSTOR 3054968. PMC 29349. PMID
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 862--863
+\T2A/cmr/m/n/10.95 analysis of transfer and stabilization of Agrobacterium DNA 
+in
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 868--869
+[]\T2A/cmr/m/n/10.95 Shamloul M, Trusa J, Mett V, Yusibov V (April 2014).
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 868--869
+\T2A/cmr/m/n/10.95 "Optimization and utilization of Agrobacterium-mediated tran
+sient
+ []
+
+[45]
+Underfull \hbox (badness 4608) in paragraph at lines 880--881
+[]\T2A/cmr/m/n/10.95 Ramirez-Bahena, M.-H.; Chahboune, R.; Peix, A.; Velazquez,
+
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 880--881
+\T2A/cmr/m/n/10.95 E. (2012). "Reclassification of Agromonas oligotrophica into
+ the
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 884--885
+[]\T2A/cmr/m/n/10.95 VanInsberghe, David; Maas, Kendra; Cardenas, Erick; Strach
+an,
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 884--885
+\T2A/cmr/m/n/10.95 Cameron; Hallam, Steven; Mohn, William (2015). "Non-symbioti
+c
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 884--885
+\T2A/cmr/m/n/10.95 ISME Journal. 9 (11): 24352441. doi:10.1038/ismej.2015.54. 
+PMC
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 886--887
+[]\T2A/cmr/m/n/10.95 P. Somasegaran (1994). Handbook for rhizobia: Methods in
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 888--889
+\T2A/cmr/m/n/10.95 carbon monoxide oxidizer diversity". Applied and Environment
+al
+ []
+
+[46]
+Underfull \hbox (badness 6380) in paragraph at lines 890--891
+[]\T2A/cmr/m/n/10.95 "List of Prokaryotic names with Standing in Nomenclature
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 892--893
+[]\T2A/cmr/m/n/10.95 Klepa MS, Ferraz Helene LC, O'Hara G, Hungria M. (2021).
+ []
+
+(C:\Users\1\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-1.def
+File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
+)
+Underfull \hbox (badness 1057) in paragraph at lines 894--895
+[]\T2A/cmr/m/n/10.95 Kalita, M; Ma\PU/cmr/m/up/10.95  l\T2A/cmr/m/n/10.95 ek, W
+ (2010). "Genista tinctoria microsymbionts
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 894--895
+\T2A/cmr/m/n/10.95 from Poland are new members of Bradyrhizobium japonicum bv.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 896--897
+[]\T2A/cmr/m/n/10.95 Stacey, Gary (1995). "Bradyrhizobium japonicum nodulation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 896--897
+\T2A/cmr/m/n/10.95 genetics". FEMS Microbiology Letters. 127 (12): 19.
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 904--905
+[]\T2A/cmr/m/n/10.95 Hennecke, H (1990). "Nitrogen fixation genes involved in t
+he
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 906--907
+[]\T2A/cmr/m/n/10.95 Rivas, Raul; Martens, Miet; De Lajudie, Philippe; Willems,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--907
+\T2A/cmr/m/n/10.95 Anne (2009). "Multilocus sequence analysis of the genus
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 906--907
+\T2A/cmr/m/n/10.95 Bradyrhizobium". Systematic and Applied Microbiology. 32 (2)
+:
+ []
+
+[47]
+Underfull \hbox (badness 1178) in paragraph at lines 908--909
+[]\T2A/cmr/m/n/10.95 Chaintreuil, Clemence; Giraud, Eric; Prin, Yves; Lorquin,
+ Jean;
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 908--909
+\T2A/cmr/m/n/10.95 Ba, Amadou; Gillis, Monique; de Lajudie, Philippe; Dreyfus,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+\T2A/cmr/m/n/10.95 Bernard (December 2000). "Photosynthetic Bradyrhizobia Are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 908--909
+\T2A/cmr/m/n/10.95 Applied and Environmental Microbiology. 66 (12): 54375447.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+[] [][]$\T2A/cmr/m/n/10.95 https : / / www . ncbi . nlm . nih . gov / Taxonomy 
+/ Browser / wwwtax . cgi ?
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 921--922
+[]\T2A/cmr/m/n/10.95 Hewlett, Erik L.; Damron, F. Heath; Wong, Ting; Fernandez,
+
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 921--922
+\T2A/cmr/m/n/10.95 19. ISSN 2150-7511. PMID 31088927 |pmid=incorrecto (ayuda).
+ []
+
+[48]
+Underfull \hbox (badness 1990) in paragraph at lines 925--926
+[]\T2A/cmr/m/n/10.95 Hewlett E (1997). "Pertussis: current concepts of pathogen
+esis
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 925--926
+\T2A/cmr/m/n/10.95 and prevention". Pediatr Infect Dis J. 16 (4 Suppl): S7884.
+
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 927--928
+[]\T2A/cmr/m/n/10.95 Cotter PA, Miller JF (2001). Groisman EA (ed.). Bordetella
+.
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 933--934
+\T2A/cmr/m/n/10.95 than just making cyclic AMP!". Mol. Microbiol. 59 (2): 4475
+9.
+ []
+
+[49]
+Underfull \hbox (badness 1472) in paragraph at lines 945--946
+[]\T2A/cmr/m/n/10.95 Beattie D, Mahan M, Mekalanos J (1993). "Repressor binding
+
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 945--946
+\T2A/cmr/m/n/10.95 to a regulatory site in the DNA coding sequence is sufficien
+t
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 945--946
+\T2A/cmr/m/n/10.95 genes) in Bordetella pertussis". J Bacteriol. 175 (2): 5192
+7.
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 947--948
+\T2A/cmr/m/n/10.95 starvation, and identifies a new class of Bvg-regulated anti
+gens".
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 951--952
+[]\T2A/cmr/m/n/10.95 "How Frequently Does A Dog Need A Bordetella Vaccine?".
+ []
+
+[50]
+Underfull \hbox (badness 1527) in paragraph at lines 959--960
+\T2A/cmr/m/n/10.95 Flexibility in the Cosmopolitan Genus Curtobacterium". Front
+iers
+ []
+
+[51]
+Underfull \hbox (badness 1107) in paragraph at lines 978--979
+[]\T2A/cmr/m/n/10.95 Walterson, Alyssa M.; Stavrinides, John (2015-11-01). "Pan
+toea:
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 978--979
+\T2A/cmr/m/n/10.95 insights into a highly versatile and diverse genus within th
+e
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 980--981
+[]\T2A/cmr/m/n/10.95 Donnenberg, Michael (2009). Mandell, Douglas, and Bennett'
+s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 980--981
+\T2A/cmr/m/n/10.95 Principles and Practice of Infectious Diseases. Chapter 218:
+
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 982--983
+[]\T2A/cmr/m/n/10.95 Tan, Wen-Si; Muhamad Yunos, Nina Yusrina; Tan, Pui-Wan;
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 982--983
+\T2A/cmr/m/n/10.95 Kok-Gan (12 August 2014). "Pantoea sp. Isolated from Tropica
+l
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 984--985
+[]\T2A/cmr/m/n/10.95 Deletoile, Alexis; Decre, Dominique; Courant, Stephanie
+; Passet,
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 984--985
+\T2A/cmr/m/n/10.95 and Typing of Pantoea agglomerans Strains by Multilocus Gene
+
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 984--985
+\T2A/cmr/m/n/10.95 Sequencing". Journal of Clinical Microbiology. 47 (2): 3003
+10.
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 984--985
+\T2A/cmr/m/n/10.95 doi:10.1128/JCM.01916-08. ISSN 0095-1137. PMC 2643697. PMID
+ []
+
+[52]
+Underfull \hbox (badness 7613) in paragraph at lines 990--991
+[]\T2A/cmr/m/n/10.95 "Pasteurella". List of Prokaryotic Names with Standing in
+ []
+
+[53] [54]
+Underfull \hbox (badness 1024) in paragraph at lines 1024--1025
+[]\T2A/cmr/m/n/10.95 Sawada H, Kuykendall LD, Young JM (June 2003). "Changing
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 1024--1025
+\T2A/cmr/m/n/10.95 concepts in the systematics of bacterial nitrogen-fixing leg
+ume
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 1030--1031
+\T2A/cmr/m/n/10.95 People, Plantsand More!". Agricultural Research. United Sta
+tes
+ []
+
+[55]
+Underfull \hbox (badness 2452) in paragraph at lines 1038--1039
+[]\T2A/cmr/m/n/10.95 Silva C, Vinuesa P, Eguiarte LE, Souza V, Martnez-Romero
+
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 1038--1039
+\T2A/cmr/m/n/10.95 E (November 2005). "Evolutionary genetics and biogeographic
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 1038--1039
+\T2A/cmr/m/n/10.95 structure of Rhizobium gallicum sensu lato, a widely distrib
+uted
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 1042--1043
+[]\T2A/cmr/m/n/10.95 Marek-Kozaczuk M, Leszcz A, Wielbo J, Wdowiak-Wrobel S,
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 1042--1043
+\T2A/cmr/m/n/10.95 Skorupska A (June 2013). "Rhizobium pisi sv. trifolii K3.22
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 1042--1043
+\T2A/cmr/m/n/10.95 harboring nod genes of the Rhizobium leguminosarum sv. trifo
+lii
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 1042--1043
+\T2A/cmr/m/n/10.95 cluster". Systematic and Applied Microbiology. 36 (4): 2528
+.
+ []
+
+[56]
+Underfull \hbox (badness 1418) in paragraph at lines 1048--1049
+[]\T2A/cmr/m/n/10.95 Turdahon M, Osman G, Hamdun M, Yusuf K, Abdurehim Z,
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 1048--1049
+\T2A/cmr/m/n/10.95 Abaydulla G, et al. (July 2013). "Rhizobium tarimense sp. no
+v.,
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 1050--1051
+\T2A/cmr/m/n/10.95 species". International Journal of Systematic and Evolutiona
+ry
+ []
+
+[57]
+Underfull \hbox (badness 2452) in paragraph at lines 1062--1063
+[]\T2A/cmr/m/n/10.95 Dowson WJ (1939). "On the systematic position and generic
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 1064--1065
+\T2A/cmr/m/n/10.95 bacteria". New Zealand Journal of Agricultural Research. 21 
+(1):
+ []
+
+[58]
+Underfull \hbox (badness 2790) in paragraph at lines 1072--1073
+\T2A/cmr/m/n/10.95 of Xanthomonas". Int J Syst Evol Microbiol. 45 (3): 472489.
+
+ []
+
+[59]
+Underfull \hbox (badness 1960) in paragraph at lines 1092--1093
+\T2A/cmr/m/n/10.95 repertoires of type three effectors are candidate determinan
+ts of
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 1092--1093
+\T2A/cmr/m/n/10.95 host specificity in Xanthomonas". PLOS ONE. 4 (8): e6632.
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 1094--1095
+[]\T2A/cmr/m/n/10.95 Souza DP, Oka GU, Alvarez-Martinez CE, Bisson-Filho AW,
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 1094--1095
+\T2A/cmr/m/n/10.95 Dunger G, Hobeika L, et al. (March 2015). "Bacterial killing
+
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 1094--1095
+\T2A/cmr/m/n/10.95 via a type IV secretion system". Nature Communications. 6 (1
+):
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 1094--1095
+\T2A/cmr/m/n/10.95 6453. Bibcode:2015NatCo...6.6453S. doi:10.1038/ncomms7453. P
+MID
+ []
+
+[60]
+Underfull \hbox (badness 1789) in paragraph at lines 1101--1102
+[]\T2A/cmr/m/n/10.95 Galibert F, Finan TM, Long SR, Puhler A, Abola P, Ampe
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/10.95 F, et al. (July 2001). "The composite genome of the legume
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 1101--1102
+\T2A/cmr/m/n/10.95 symbiont Sinorhizobium meliloti". Science. 293 (5530): 6687
+2.
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 1107--1108
+[]\T2A/cmr/m/n/10.95 Schmeisser C, Liesegang H, Krysciak D, Bakkou N, Le Quer
+e
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 1112--1113
+[]\T2A/cmr/m/n/10.95 Kaneko, T.; et al. (2000). "Complete Genome Structure of
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1115
+[]\T2A/cmr/m/n/10.95 "List of Prokaryotic names with Standing in
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 1118--1119
+[]\T2A/cmr/m/n/10.95 De Meyer SE, Andrews M, James EK, Willems A. (2019).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1119
+\T2A/cmr/m/n/10.95 "Mesorhizobium carmichaelinearum sp. nov., isolated from
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 1120--1121
+\T2A/cmr/m/n/10.95 K.; Tsai, S.; Zucker, M. J.; Olesnicky, L. (2013). "Isolatio
+n and
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 1120--1121
+\T2A/cmr/m/n/10.95 hominis from Blood of a Patient Afflicted with Fatal Pulmona
+ry
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 1123--1124
+[]\T2A/cmr/m/n/10.95 Khanna, Ashish; Khanna, Menka; Aggarwal, Aruna (February
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 1123--1124
+\T2A/cmr/m/n/10.95 2013). "Serratia Marcescens- A Rare Opportunistic Nosocomial
+
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1123--1124
+\T2A/cmr/m/n/10.95 Journal of Clinical and Diagnostic Research. 7 (2): 243246.
+
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 1125--1126
+[]\T2A/cmr/m/n/10.95 Haddix, Pryce L.; Shanks, Robert M. Q. (September 2018).
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 1125--1126
+\T2A/cmr/m/n/10.95 biomass production". Archives of Microbiology. 200 (7): 989
+999.
+ []
+
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+[]\T2A/cmr/m/n/10.95 Garcia-Silvera, Edgar Edurman, Martinez-Morales, Fernando;
+
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 1133--1135
+\T2A/cmr/m/n/10.95 Bertrand, Brandt;Morales-Guzman, Daniel; Rosas-Galvan, Nashb
+ly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1133--1135
+\T2A/cmr/m/n/10.95 Sarela; Leon-Rodriguez, Renato; Trejo-Hernandez, Maria R.
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 1133--1135
+\T2A/cmr/m/n/10.95 (2018). "Production and application of a thermostable lipase
+
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 1133--1135
+\T2A/cmr/m/n/10.95 from Serratia marcescens in detergent formulation and biodie
+sel
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 1136--1137
+\T2A/cmr/m/n/10.95 strains isolated from contact lens-associated corneal ulcers
+". Acta
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 1138--1139
+[]\T2A/cmr/m/n/10.95 Ruan, Yuan; Braum, Volkmar (1 August 1990). "Hemolysin as
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 1138--1139
+\T2A/cmr/m/n/10.95 doi:10.1007/BF00248958. ISSN 1432-072X. PMID 2222120. S2CID
+ []
+
+[63]
+Underfull \hbox (badness 3792) in paragraph at lines 1140--1141
+[]\T2A/cmr/m/n/10.95 Joshi, Sadhna; Kozlowski, Maya (1987), "Cloning of Serrati
+a
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 1140--1141
+\T2A/cmr/m/n/10.95 Liquefaciens Chitinase Gene(s) Molecular genetics of plant-m
+icrobe
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 1144--1145
+[]\T2A/cmr/m/n/10.95 Preobrazhenskaya, Yu. V.; Voskoboev, A. I.; Burd, V. N.
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 1144--1145
+\T2A/cmr/m/n/10.95 (1 November 2003). "Hydrolysis of Phosphoester Bond by the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1145
+\T2A/cmr/m/n/10.95 Heme-Independent Chloroperoxidase from Serratia marcescens".
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1145
+\T2A/cmr/m/n/10.95 Russian Journal of Bioorganic Chemistry. 29 (6): 556559.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1145
+\T2A/cmr/m/n/10.95 doi:10.1023/B:RUBI.0000008896.40862.d6. ISSN 1573-9163. S2CI
+D
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 1146--1147
+[]\T2A/cmr/m/n/10.95 Preiss, J; Crawford, K; Downey, J; Lammel, C; Greenberg, E
+
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 1154--1155
+\T2A/cmr/m/n/10.95 Nocardioides". The Prokaryotes. Springer New York: 10991113
+.
+ []
+
+[64]
+Underfull \hbox (badness 1314) in paragraph at lines 1164--1165
+[]\T2A/cmr/m/n/10.95 Parte, Aidan C.; Euzeby, Jean P. "Genus Leptothrix". List
+ of
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 1164--1165
+\T2A/cmr/m/n/10.95 Prokaryotic names with Standing in Nomenclature. Retrieved 1
+5
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 1166--1167
+\T2A/cmr/m/n/10.95 ) cellular organisms; Bacteria; Proteobacteria; Betaproteoba
+cteria;
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 1170--1171
+\T2A/cmr/m/n/10.95 sp. nov". International Journal of Systematic and Evolutiona
+ry
+ []
+
+[65]
+Underfull \hbox (badness 2150) in paragraph at lines 1178--1179
+\T2A/cmr/m/n/10.95 nov. And Phyllobacterium brassicacearum sp. nov". Internatio
+nal
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 1184--1185
+\T2A/cmr/m/n/10.95 hairspray". International Journal of Systematic and Evolutio
+nary
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 1184--1185
+\T2A/cmr/m/n/10.95 Microbiology. 58 (Pt 3): 654658. doi:10.1099/ijs.0.65160-0.
+ PMID
+ []
+
+[66]
+Underfull \hbox (badness 4132) in paragraph at lines 1188--1189
+\T2A/cmr/m/n/10.95 Raoult, Didier; Fenollar, Florence; Fournier, Pierre-Edouard
+ (23
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 1194--1195
+[]\T2A/cmr/m/n/10.95 Kuraishi, H; Imamura, Y; Ikeda, M; Yoshida, S (1 September
+
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 1194--1195
+\T2A/cmr/m/n/10.95 of Systematic and Evolutionary Microbiology. 50 (5): 189919
+03.
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 1196--1197
+\T2A/cmr/m/n/10.95 brevis as its later heterotypic synonym". International Jour
+nal
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 1196--1197
+\T2A/cmr/m/n/10.95 of Systematic and Evolutionary Microbiology. 53 (6): 199920
+05.
+ []
+
+[67]
+Underfull \hbox (badness 4001) in paragraph at lines 1198--1199
+\T2A/cmr/m/n/10.95 Hiroaki; Shizuri, Yoshikazu; Omura, Satoshi (2007). "Janibac
+ter
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 1206--1207
+[]\T2A/cmr/m/n/10.95 Elsayed, S.; Zhang, K. (6 July 2005). "Bacteremia Caused b
+y
+ []
+
+[68]
+Underfull \hbox (badness 7221) in paragraph at lines 1210--1211
+[]\T2A/cmr/m/n/10.95 Wan, Wei Yee; Mughal, Ahsan; Ward, Kelly (19 October
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 1210--1211
+\T2A/cmr/m/n/10.95 2016). "Bilateral psoas abscess caused by Janibacter terrae,
+ an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1211
+\T2A/cmr/m/n/10.95 unusual condition and organism resulting in laboratory and
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 1210--1211
+\T2A/cmr/m/n/10.95 management conundrums". Acta Clinica Belgica. 72 (5): 33633
+9.
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 1212--1213
+\T2A/cmr/m/n/10.95 Stackebrandt, Erko (2002). "Knoellia sinensis gen. nov., sp.
+ nov.
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 1216--1217
+[]\T2A/cmr/m/n/10.95 Shin, N.-R.; Roh, S. W.; Kim, M.-S.; Jung, M.-J.; Whon, T.
+
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 1216--1217
+\T2A/cmr/m/n/10.95 W.; Bae, J.-W. (18 March 2011). "Knoellia locipacati sp. nov
+.,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 1220--1221
+\T2A/cmr/m/n/10.95 Mayilraj, Shanmugam; Satomi, Masataka; Venkateswaran, Kasthu
+ri
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 1220--1221
+\T2A/cmr/m/n/10.95 (1 December 2007). "Tetrasphaera remsis sp. nov., isolated f
+rom
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 1220--1221
+\T2A/cmr/m/n/10.95 Microbiology. 57 (12): 27492753. doi:10.1099/ijs.0.65137-0.
+ PMID
+ []
+
+[69]
+Underfull \hbox (badness 1803) in paragraph at lines 1224--1225
+\T2A/cmr/m/n/10.95 2017). "Macrococcus canis sp. nov., a skin bacterium associa
+ted
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 1224--1225
+\T2A/cmr/m/n/10.95 with infections in dogs". International Journal of Systemati
+c and
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 1228--1229
+\T2A/cmr/m/n/10.95 Names with Standing in Nomenclature: a folder available on t
+he
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 1228--1229
+\T2A/cmr/m/n/10.95 Internet". International Journal of Systematic and Evolution
+ary
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 1228--1229
+\T2A/cmr/m/n/10.95 Microbiology. 47 (2): 5902. doi:10.1099/00207713-47-2-590. 
+PMID
+ []
+
+[70]
+Underfull \hbox (badness 4792) in paragraph at lines 1232--1233
+[]\T2A/cmr/m/n/10.95 Tsubakishita S, Baba K K-A T, and Hiramatsu K (2010)
+ []
+
+
+Underfull \hbox (badness 4254) in paragraph at lines 1235--1236
+[]\T2A/cmr/m/n/10.95 Liu Y, Xie QY, Shi W, Li L, An JY, Zhao YM, Hong
+ []
+
+
+Underfull \hbox (badness 4569) in paragraph at lines 1235--1236
+\T2A/cmr/m/n/10.95 sediment. International Journal of Systematic and Evolutiona
+ry
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 1237--1238
+\T2A/cmr/m/n/10.95 of Systematic and Evolutionary Microbiology. 68 (11): 35633
+568.
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 1239--1240
+\T2A/cmr/m/n/10.95 horti sp. nov., isolated from garden soil. International Jou
+rnal of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+[]\T2A/cmr/m/n/10.95 Alou MT, Cadoret F, Brah S, Diallo A, Sokhna C,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+\T2A/cmr/m/n/10.95 Mehrej V, Lagier JC, Fournier PE, Raoult D. Khelaifiella
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+\T2A/cmr/m/n/10.95 massiliensis,Niameybacter massiliensisBrachybacterium
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1242
+\T2A/cmr/m/n/10.95 massilienseEnterobacter timonensis,Massilibacillus massi
+liensis,
+ []
+
+[71]
+Underfull \hbox (badness 1418) in paragraph at lines 1253--1254
+\T2A/cmr/m/n/10.95 Takeuchi, Yosuke; Shiigai, Masanari; Igarashi, Jun; Hirose, 
+Yumi;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1254
+\T2A/cmr/m/n/10.95 Journal of Infection and Chemotherapy. 24 (12): 9981003.
+ []
+
+[72]pdfTeX warning (ext4): destination with the same identifier (name{cite.Acin
+etobacter_1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1265 	~\bibitem{Acinetobacter_1}
+                                   ~\url{https://lpsn.dsmz.de/genus/acinetob...
+pdfTeX warning (ext4): destination with the same identifier (name{cite.Acinetob
+acter_7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1267 	~\bibitem{Acinetobacter_7}
+                                    Bitrian, Mariana; Gonzalez, Rodrigo H.; ...
+
+Underfull \hbox (badness 1097) in paragraph at lines 1267--1268
+\T2A/cmr/m/n/10.95 of three BLUF-domain-containing proteins". Microbiology. 159
+ (Pt
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 1267--1268
+\T2A/cmr/m/n/10.95 9): 18281841. doi:10.1099/mic.0.069153-0. ISSN 1465-2080. P
+MID
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1271
+[] [][]$\T2A/cmr/m/n/10.95 https : / / www . ncbi . nlm . nih . gov / Taxonomy 
+/ Browser / wwwtax . cgi ?
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 1274--1275
+\T2A/cmr/m/n/10.95 Kato, Yoshiko; Tomiyasu, Ikuko; Yano, Ikuya; Kobayashi, Kazu
+o
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 1274--1275
+\T2A/cmr/m/n/10.95 of human leukaemic cells". Microbiology. 149 (8): 20712081.
+
+ []
+
+[73]
+Underfull \hbox (badness 1931) in paragraph at lines 1280--1281
+\T2A/cmr/m/n/10.95 Contaminated Intravenous Fentanyl, Lisa L. Maragakis, Romane
+e
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 1280--1281
+\T2A/cmr/m/n/10.95 Chaiwarith, Arjun Srinivasan, Francesca J. Torriani, Edina A
+vdic,
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 1286--1287
+\T2A/cmr/m/n/10.95 Chemosphere. 38 (11): 25012507. Bibcode:1999Chmsp..38.2501N
+.
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 1290--1291
+\T2A/cmr/m/n/10.95 "Cloning and Overexpression of Alkaline Phosphatase PhoK fro
+m
+ []
+
+[74]
+Underfull \hbox (badness 6047) in paragraph at lines 1294--1295
+\T2A/cmr/m/n/10.95 17, 1974). "Mutamicins; biosynthetically created new sisomic
+in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1294--1295
+\T2A/cmr/m/n/10.95 analogues". The Journal of Antibiotics. 27 (12): 91721.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1301
+[] [][]$\T2A/cmr/m/n/10.95 https : / / www . ncbi . nlm . nih . gov / pmc / art
+icles / PMC7696743 / # :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1301
+\T2A/cmr/m/n/10.95 ~ : text = Ochrobactrum % 20species % 20are % 20non % 2Dente
+ric ,[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1302--1303
+[] [][]$\T2A/cmr/m/n/10.95 https : / / xn-[]-[]90aw5c . xn-[]-[]c1avg / index .
+ php / %D0 % 91 % D0 % 90 % D0 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1302--1303
+\T2A/cmr/m/n/10.95 9A % D0 % A2 % D0 % 95 % D0 % A0 % D0 % 98 % D0 % 9E % D0 % 
+A6 % D0 % 98 %
+ []
+
+[75] (endofits.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `endofits.out' has not changed.
+(rerunfilecheck)             Checksum: 478471928ADC4DB98DB717C30FFAD935;12713.
+ ) 
+Here is how much of TeX's memory you used:
+ 15621 strings out of 479334
+ 220212 string characters out of 2858984
+ 700465 words of memory out of 3000000
+ 32344 multiletter control sequences out of 15000+200000
+ 418027 words of font info for 67 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,8n,74p,2909b,728s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\1\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.p
+k> <C:\Users\1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095
+.pk> <C:\Users\1\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1095
+.pk> <C:\Users\1\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1095
+.pk> <C:\Users\1\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440
+.pk> <C:\Users\1\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200
+.pk> <C:\Users\1\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728
+.pk><C:/Users/1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb><C:/Users/1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><C:/Users/1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmmi8.pfb><C:/Users/1/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/1/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb><C:/Users/1/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><C:/Users/1/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/1/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on endofits.pdf (75 pages, 951295 bytes).
+PDF statistics:
+ 2124 PDF objects out of 2487 (max. 8388607)
+ 503 named destinations out of 1000 (max. 500000)
+ 648 words of extra memory for PDF output out of 10000 (max. 10000000)
+
